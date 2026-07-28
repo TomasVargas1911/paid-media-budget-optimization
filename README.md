@@ -110,10 +110,6 @@ It also gave me practical, hands-on familiarity with tools that are standard in 
 - Google Analytics (GA4)
 - Excel / Google Sheets (budget modeling & KPI tracking)
 
-## CV / Resume Bullet Point
-
-> Independently designed a multi-platform paid media practice project across DV360, The Trade Desk, Meta Ads, and Google Ads, applying budget allocation frameworks and A/B testing methodology while tracking key KPIs (CPA, ROAS, CTR, Viewability) to build hands-on proficiency in performance marketing.
-
 ---
 
 *This is a self-directed learning project using demo accounts, sandbox environments, and simulated data — not a live client campaign.*
