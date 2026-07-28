@@ -2,7 +2,7 @@
 ### A Junior Marketer's Approach to Budget Strategy
 
 > **Note:** This is a personal practice project. The data is simulated for
-> learning and portfolio purposes — it does not come from a live client
+> learning and portfolio purposes it does not come from a live client
 > account. The methodology, however, reflects the same process I'd apply
 > to a real Google Ads account.
 
